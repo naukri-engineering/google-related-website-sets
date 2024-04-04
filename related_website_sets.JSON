@@ -640,6 +640,18 @@
         "https://etfacademy.it": "An Italian language education site about ETFs. The iShares by BlackRock branding is clearly visible on the site.",
         "https://ishares.com": "iShares is BlackRock's ETF brand. The branding is clearly visible on the site." 
     }
-  }
+  },
+  {
+    "contact": "naukri.comapp@gmail.com",
+    "primary": "https://naukri.com",
+    "associatedSites": [
+       "https://ambitionbox.com",
+       "https://infoedgeindia.com"
+    ],
+    "rationaleBySite": {
+       "https://ambitionbox.com": "Ambition box url",
+       "https://infoedgeindia.com": "InfoEdge India url"
+    }
+ }
   ]
 }
